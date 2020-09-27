@@ -21,6 +21,7 @@
  */
 #pragma once
 
+/**
  * Configuration.h
  *
  * Basic settings such as:
